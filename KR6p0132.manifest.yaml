@@ -1,0 +1,2333 @@
+canonical_identifier: bkk:krp/KR6p0132/v1
+canonical_location: https://kanripo.org/bkk/KR6p0132/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 蓮修必讀
+  identifiers:
+    alt_id:
+    - X62n1214
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1214.xml
+    old_id: X62n1214
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0132_000.yaml, hash: 'sha256:d7035038092758270d0e4b8495eca9ecd79f03164af572855ce3b842769798a1'}
+  - {seq: 1, filename: KR6p0132_001.yaml, hash: 'sha256:5222680044e0c98f7df657442a5effda66ee8b339091b177a3bb48b5cd1f8500'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0132_000.markers.yaml, hash: 'sha256:5c54ffa32f318d8b303574b003ad9e1ce6c57461a28178bb8aca212432955c5f'}
+  - {seq: 1, role: markers, filename: assets/KR6p0132_001.markers.yaml, hash: 'sha256:1c723c20147270b2c0cf89d04172684c004a064b4b2d07083ef661b11a7af327'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0132_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1214-A 蓮修必讀自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 35746
+  label: 蓮修必讀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 全唐詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-2
+    span:
+    - body
+    - 737
+    - 737
+  label: 又
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-3
+    span:
+    - body
+    - 932
+    - 932
+  label: 和寒山詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-4
+    span:
+    - body
+    - 1100
+    - 1100
+  label: 萬善先資
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-5
+    span:
+    - body
+    - 1107
+    - 1107
+  label: 萬善先資
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-6
+    span:
+    - body
+    - 1247
+    - 1247
+  label: 家政
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-7
+    span:
+    - body
+    - 1299
+    - 1299
+  label: 慶賀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-8
+    span:
+    - body
+    - 1351
+    - 1351
+  label: 婚嫁
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-9
+    span:
+    - body
+    - 1403
+    - 1403
+  label: 喪祭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-10
+    span:
+    - body
+    - 1455
+    - 1455
+  label: 器用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-11
+    span:
+    - body
+    - 1507
+    - 1507
+  label: 衛生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-12
+    span:
+    - body
+    - 1559
+    - 1559
+  label: 方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-13
+    span:
+    - body
+    - 1611
+    - 1611
+  label: 言語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-14
+    span:
+    - body
+    - 1663
+    - 1663
+  label: 勸戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-15
+    span:
+    - body
+    - 1715
+    - 1715
+  label: 強恕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-16
+    span:
+    - body
+    - 1767
+    - 1767
+  label: 懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-17
+    span:
+    - body
+    - 1819
+    - 1819
+  label: 發心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-18
+    span:
+    - body
+    - 1871
+    - 1871
+  label: 求生捷徑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-19
+    span:
+    - body
+    - 2236
+    - 2236
+  label: 衛生集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-20
+    span:
+    - body
+    - 2243
+    - 2243
+  label: 衛生集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-21
+    span:
+    - body
+    - 2263
+    - 2263
+  label: 又（呂純陽）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-22
+    span:
+    - body
+    - 2295
+    - 2295
+  label: 又（陶石簣）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-23
+    span:
+    - body
+    - 2339
+    - 2339
+  label: 又（壽光禪師）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-24
+    span:
+    - body
+    - 2400
+    - 2400
+  label: 慶壽戒殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-25
+    span:
+    - body
+    - 2435
+    - 2435
+  label: 慈心寶鑑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-26
+    span:
+    - body
+    - 2439
+    - 2439
+  label: 戒殺偈二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-27
+    span:
+    - body
+    - 2527
+    - 2527
+  label: 戒殺詩一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-28
+    span:
+    - body
+    - 2563
+    - 2563
+  label: 戒殺頌二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-29
+    span:
+    - body
+    - 2631
+    - 2631
+  label: 戒殺詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-30
+    span:
+    - body
+    - 2666
+    - 2666
+  label: 又（白香山）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-31
+    span:
+    - body
+    - 2698
+    - 2698
+  label: 又（陸放翁）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-32
+    span:
+    - body
+    - 2730
+    - 2730
+  label: 戒殺俚言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-33
+    span:
+    - body
+    - 3253
+    - 3253
+  label: 西齋淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-34
+    span:
+    - body
+    - 3262
+    - 3262
+  label: 西齋淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-35
+    span:
+    - body
+    - 5499
+    - 5499
+  label: 析善導和尚念佛偈八首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-36
+    span:
+    - body
+    - 5893
+    - 5893
+  label: 娑婆苦漁家傲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-37
+    span:
+    - body
+    - 6209
+    - 6209
+  label: 西方樂漁家傲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-38
+    span:
+    - body
+    - 6524
+    - 6524
+  label: 勸念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-39
+    span:
+    - body
+    - 6580
+    - 6580
+  label: 淨土要言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-40
+    span:
+    - body
+    - 6587
+    - 6587
+  label: 淨土要言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-41
+    span:
+    - body
+    - 6687
+    - 6687
+  label: 苦樂行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-42
+    span:
+    - body
+    - 6862
+    - 6862
+  label: 勸修淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-43
+    span:
+    - body
+    - 6982
+    - 6982
+  label: 雲棲曲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-44
+    span:
+    - body
+    - 7051
+    - 7051
+  label: 清夜鐘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-45
+    span:
+    - body
+    - 7218
+    - 7218
+  label: 春夏秋冬四詞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-46
+    span:
+    - body
+    - 7679
+    - 7679
+  label: 西方詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-47
+    span:
+    - body
+    - 7938
+    - 7938
+  label: 淨土咏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-48
+    span:
+    - body
+    - 8001
+    - 8001
+  label: 警世詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-49
+    span:
+    - body
+    - 8036
+    - 8036
+  label: 又（石屋大師）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-50
+    span:
+    - body
+    - 8153
+    - 8153
+  label: 懷安養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-51
+    span:
+    - body
+    - 8216
+    - 8216
+  label: 勸念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-52
+    span:
+    - body
+    - 8307
+    - 8307
+  label: 念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-53
+    span:
+    - body
+    - 8342
+    - 8342
+  label: 又（耑愚大師）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-54
+    span:
+    - body
+    - 8403
+    - 8403
+  label: 歸元鏡詞曲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-55
+    span:
+    - body
+    - 8997
+    - 8997
+  label: 滿庭芳一首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-56
+    span:
+    - body
+    - 9101
+    - 9101
+  label: 懷西本願曲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-57
+    span:
+    - body
+    - 9283
+    - 9283
+  label: 十二時頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-58
+    span:
+    - body
+    - 10202
+    - 10202
+  label: 呂祖全書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-59
+    span:
+    - body
+    - 10210
+    - 10210
+  label: 呂祖全書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-60
+    span:
+    - body
+    - 10379
+    - 10379
+  label: 七期禁語念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-61
+    span:
+    - body
+    - 10501
+    - 10501
+  label: 普勸念佛頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-62
+    span:
+    - body
+    - 10673
+    - 10673
+  label: 誠止人情
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-63
+    span:
+    - body
+    - 10761
+    - 10761
+  label: 淨土偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-64
+    span:
+    - body
+    - 10908
+    - 10908
+  label: 蓮宗寶鑑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-65
+    span:
+    - body
+    - 10943
+    - 10943
+  label: 樂󳬛文類
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-66
+    span:
+    - body
+    - 10946
+    - 10946
+  label: 神棲安養賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-67
+    span:
+    - body
+    - 11378
+    - 11378
+  label: 禪淨四料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-68
+    span:
+    - body
+    - 11463
+    - 11463
+  label: 讚永明智覺禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-69
+    span:
+    - body
+    - 11504
+    - 11504
+  label: 畫阿彌陀佛像偈(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-70
+    span:
+    - body
+    - 11633
+    - 11633
+  label: 娑婆苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-71
+    span:
+    - body
+    - 11987
+    - 11987
+  label: 示陳行婆頌(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-72
+    span:
+    - body
+    - 12121
+    - 12121
+  label: 勸修淨業頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-73
+    span:
+    - body
+    - 12158
+    - 12158
+  label: 化導念佛頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-74
+    span:
+    - body
+    - 12223
+    - 12223
+  label: 念佛心要頌(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-75
+    span:
+    - body
+    - 12403
+    - 12403
+  label: 勸世念佛頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-76
+    span:
+    - body
+    - 12688
+    - 12688
+  label: 懷安養故鄉詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-77
+    span:
+    - body
+    - 12810
+    - 12810
+  label: 懷西方詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-78
+    span:
+    - body
+    - 12930
+    - 12930
+  label: 淨土詠史
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-79
+    span:
+    - body
+    - 12996
+    - 12996
+  label: 懷淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-80
+    span:
+    - body
+    - 13311
+    - 13311
+  label: 和淵明歸去來兮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-81
+    span:
+    - body
+    - 13663
+    - 13663
+  label: 擬淵明歸去來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-82
+    span:
+    - body
+    - 14029
+    - 14029
+  label: 追和淵明歸去來辭(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-83
+    span:
+    - body
+    - 14528
+    - 14528
+  label: 淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-84
+    span:
+    - body
+    - 14814
+    - 14814
+  label: 折疑論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-85
+    span:
+    - body
+    - 14817
+    - 14817
+  label: 通相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-86
+    span:
+    - body
+    - 14879
+    - 14879
+  label: 論孝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-87
+    span:
+    - body
+    - 14937
+    - 14937
+  label: 評議
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-88
+    span:
+    - body
+    - 14995
+    - 14995
+  label: 殊見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-89
+    span:
+    - body
+    - 15053
+    - 15053
+  label: 言符
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-90
+    span:
+    - body
+    - 15111
+    - 15111
+  label: 總頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-91
+    span:
+    - body
+    - 15169
+    - 15169
+  label: 靈峰宗論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-92
+    span:
+    - body
+    - 15177
+    - 15177
+  label: 阿彌陀佛像贊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-93
+    span:
+    - body
+    - 15287
+    - 15287
+  label: 淨社銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-94
+    span:
+    - body
+    - 15306
+    - 15306
+  label: 戒心戒方銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-95
+    span:
+    - body
+    - 15347
+    - 15347
+  label: 贈戒珠(有序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-96
+    span:
+    - body
+    - 15414
+    - 15414
+  label: 警邃徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-97
+    span:
+    - body
+    - 15457
+    - 15457
+  label: 淨土偈(有序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-98
+    span:
+    - body
+    - 15751
+    - 15751
+  label: 示用恒薙髮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-99
+    span:
+    - body
+    - 15784
+    - 15784
+  label: 示寶所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-100
+    span:
+    - body
+    - 15827
+    - 15827
+  label: 贈若雲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-101
+    span:
+    - body
+    - 15870
+    - 15870
+  label: 示初平發心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-102
+    span:
+    - body
+    - 15945
+    - 15945
+  label: 示涵宏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-103
+    span:
+    - body
+    - 16028
+    - 16028
+  label: 警初平
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-104
+    span:
+    - body
+    - 16087
+    - 16087
+  label: 示戒明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-105
+    span:
+    - body
+    - 16150
+    - 16150
+  label: 胡勞歎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-106
+    span:
+    - body
+    - 16263
+    - 16263
+  label: 贈頂瞿師掩關念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-107
+    span:
+    - body
+    - 16369
+    - 16369
+  label: 和陳非白
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-108
+    span:
+    - body
+    - 16429
+    - 16429
+  label: 贈耦西
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-109
+    span:
+    - body
+    - 16492
+    - 16492
+  label: 五戒歌示憨月
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-110
+    span:
+    - body
+    - 16701
+    - 16701
+  label: 示馬光世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-111
+    span:
+    - body
+    - 16815
+    - 16815
+  label: 偶成
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-112
+    span:
+    - body
+    - 16845
+    - 16845
+  label: 丙戌生辰驟雨初霽偶成
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-113
+    span:
+    - body
+    - 16935
+    - 16935
+  label: 靈奕生日以偈示之
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-114
+    span:
+    - body
+    - 16983
+    - 16983
+  label: 示豁一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-115
+    span:
+    - body
+    - 17058
+    - 17058
+  label: 示寶樹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-116
+    span:
+    - body
+    - 17173
+    - 17173
+  label: 病中口號
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-117
+    span:
+    - body
+    - 17217
+    - 17217
+  label: 大病初起求生淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-118
+    span:
+    - body
+    - 17449
+    - 17449
+  label: 蓮航櫓唱
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-119
+    span:
+    - body
+    - 18463
+    - 18463
+  label: 勸念佛歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-120
+    span:
+    - body
+    - 18632
+    - 18632
+  label: 雲棲詩偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-121
+    span:
+    - body
+    - 18990
+    - 18990
+  label: 勸修四料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-122
+    span:
+    - body
+    - 19035
+    - 19035
+  label: 示廣位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-123
+    span:
+    - body
+    - 19070
+    - 19070
+  label: 題涅槃堂(有序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-124
+    span:
+    - body
+    - 19116
+    - 19116
+  label: 原作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-125
+    span:
+    - body
+    - 19174
+    - 19174
+  label: 今和
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-126
+    span:
+    - body
+    - 19344
+    - 19344
+  label: 除夕上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-127
+    span:
+    - body
+    - 19376
+    - 19376
+  label: 七筆勾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-128
+    span:
+    - body
+    - 19727
+    - 19727
+  label: 語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-129
+    span:
+    - body
+    - 19733
+    - 19733
+  label: 示禪者念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-130
+    span:
+    - body
+    - 19815
+    - 19815
+  label: 念佛警䇿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-131
+    span:
+    - body
+    - 19851
+    - 19851
+  label: 警世偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-132
+    span:
+    - body
+    - 19934
+    - 19934
+  label: 阿彌陀佛像讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-133
+    span:
+    - body
+    - 20000
+    - 20000
+  label: 寸心齋銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-134
+    span:
+    - body
+    - 20036
+    - 20036
+  label: 東銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-135
+    span:
+    - body
+    - 20070
+    - 20070
+  label: 廁室銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-136
+    span:
+    - body
+    - 20105
+    - 20105
+  label: 勸修淨土詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-137
+    span:
+    - body
+    - 21731
+    - 21731
+  label: 外道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-138
+    span:
+    - body
+    - 21813
+    - 21813
+  label: 苦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-139
+    span:
+    - body
+    - 21870
+    - 21870
+  label: 樂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-140
+    span:
+    - body
+    - 21927
+    - 21927
+  label: 閒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-141
+    span:
+    - body
+    - 21983
+    - 21983
+  label: 忙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-142
+    span:
+    - body
+    - 22040
+    - 22040
+  label: 老
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-143
+    span:
+    - body
+    - 22097
+    - 22097
+  label: 病
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-144
+    span:
+    - body
+    - 22154
+    - 22154
+  label: 死
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-145
+    span:
+    - body
+    - 22379
+    - 22379
+  label: 八苦詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-146
+    span:
+    - body
+    - 22382
+    - 22382
+  label: 生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-147
+    span:
+    - body
+    - 22439
+    - 22439
+  label: 老
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-148
+    span:
+    - body
+    - 22496
+    - 22496
+  label: 病
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-149
+    span:
+    - body
+    - 22553
+    - 22553
+  label: 死
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-150
+    span:
+    - body
+    - 22610
+    - 22610
+  label: 愛別離
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-151
+    span:
+    - body
+    - 22669
+    - 22669
+  label: 怨憎會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-152
+    span:
+    - body
+    - 22728
+    - 22728
+  label: 求不得
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-153
+    span:
+    - body
+    - 22786
+    - 22786
+  label: 五陰熾盛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-154
+    span:
+    - body
+    - 22875
+    - 22875
+  label: 灑水囊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-155
+    span:
+    - body
+    - 22934
+    - 22934
+  label: 淨業堂詩(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-156
+    span:
+    - body
+    - 23047
+    - 23047
+  label: 偶成
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-157
+    span:
+    - body
+    - 23133
+    - 23133
+  label: 醒世歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-158
+    span:
+    - body
+    - 23420
+    - 23420
+  label: 優填王圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-159
+    span:
+    - body
+    - 23548
+    - 23548
+  label: 遺集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-160
+    span:
+    - body
+    - 23554
+    - 23554
+  label: 念佛偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-161
+    span:
+    - body
+    - 23896
+    - 23896
+  label: 讚血畫彌陀佛像
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-162
+    span:
+    - body
+    - 24011
+    - 24011
+  label: 念佛伽陀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-163
+    span:
+    - body
+    - 24399
+    - 24399
+  label: 示弟子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-164
+    span:
+    - body
+    - 24442
+    - 24442
+  label: 解脫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-165
+    span:
+    - body
+    - 24469
+    - 24469
+  label: 滅罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-166
+    span:
+    - body
+    - 24503
+    - 24503
+  label: 唯心集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-167
+    span:
+    - body
+    - 25086
+    - 25086
+  label: 影響集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-168
+    span:
+    - body
+    - 25089
+    - 25089
+  label: 淨土詩（比丘尼量海）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-169
+    span:
+    - body
+    - 25862
+    - 25862
+  label: 淨土詩（普能禪師）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-170
+    span:
+    - body
+    - 26426
+    - 26426
+  label: 西方清淨音
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-171
+    span:
+    - body
+    - 26431
+    - 26431
+  label: 十空曲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-172
+    span:
+    - body
+    - 26935
+    - 26935
+  label: 和十首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-173
+    span:
+    - body
+    - 27512
+    - 27512
+  label: 勸閱此詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-174
+    span:
+    - body
+    - 27572
+    - 27572
+  label: 勸發此願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-175
+    span:
+    - body
+    - 27629
+    - 27629
+  label: 勸守正念
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-176
+    span:
+    - body
+    - 27689
+    - 27689
+  label: 勸多情者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-177
+    span:
+    - body
+    - 27749
+    - 27749
+  label: 勸世務人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-178
+    span:
+    - body
+    - 27809
+    - 27809
+  label: 勸童男女
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-179
+    span:
+    - body
+    - 27869
+    - 27869
+  label: 勸平等度
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-180
+    span:
+    - body
+    - 27941
+    - 27941
+  label: 聽念佛聲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-181
+    span:
+    - body
+    - 27973
+    - 27973
+  label: 淨土曲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-182
+    span:
+    - body
+    - 28024
+    - 28024
+  label: 賦得醒迷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-183
+    span:
+    - body
+    - 28108
+    - 28108
+  label: 蓮修警䇿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-184
+    span:
+    - body
+    - 28277
+    - 28277
+  label: 化知見
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-185
+    span:
+    - body
+    - 28392
+    - 28392
+  label: 勸正修
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-186
+    span:
+    - body
+    - 28543
+    - 28543
+  label: 神聽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-187
+    span:
+    - body
+    - 28677
+    - 28677
+  label: 器和
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-188
+    span:
+    - body
+    - 28735
+    - 28735
+  label: 心聲普現
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-189
+    span:
+    - body
+    - 28767
+    - 28767
+  label: 念境靈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-190
+    span:
+    - body
+    - 28818
+    - 28818
+  label: 極樂滿現花嚴
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-191
+    span:
+    - body
+    - 28956
+    - 28956
+  label: 本地風光
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-192
+    span:
+    - body
+    - 29116
+    - 29116
+  label: 長短句
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-193
+    span:
+    - body
+    - 29524
+    - 29524
+  label: 蓮󳬛消息(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-194
+    span:
+    - body
+    - 29533
+    - 29533
+  label: 蓮邦消息
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-195
+    span:
+    - body
+    - 30042
+    - 30042
+  label: 地獄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-196
+    span:
+    - body
+    - 30072
+    - 30072
+  label: 畜生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-197
+    span:
+    - body
+    - 30102
+    - 30102
+  label: 餓鬼
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-198
+    span:
+    - body
+    - 30132
+    - 30132
+  label: 人道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-199
+    span:
+    - body
+    - 30162
+    - 30162
+  label: 修羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-200
+    span:
+    - body
+    - 30192
+    - 30192
+  label: 天道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-201
+    span:
+    - body
+    - 30845
+    - 30845
+  label: 西方徑路(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-202
+    span:
+    - body
+    - 31484
+    - 31484
+  label: 散持有功(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-203
+    span:
+    - body
+    - 31790
+    - 31790
+  label: 念佛開心頌(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-204
+    span:
+    - body
+    - 31801
+    - 31801
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-205
+    span:
+    - body
+    - 31908
+    - 31908
+  label: 大求開悟
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-206
+    span:
+    - body
+    - 31968
+    - 31968
+  label: 念佛得妙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-207
+    span:
+    - body
+    - 32084
+    - 32084
+  label: 不問如何
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-208
+    span:
+    - body
+    - 32172
+    - 32172
+  label: 禪門日誦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-209
+    span:
+    - body
+    - 32176
+    - 32176
+  label: 示子出家偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-210
+    span:
+    - body
+    - 32252
+    - 32252
+  label: 淨土聖賢錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-211
+    span:
+    - body
+    - 32261
+    - 32261
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-212
+    span:
+    - body
+    - 32357
+    - 32357
+  label: 祖朗大師傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-213
+    span:
+    - body
+    - 32486
+    - 32486
+  label: 起信大師傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-214
+    span:
+    - body
+    - 32892
+    - 32892
+  label: 冬瓜和尚傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-215
+    span:
+    - body
+    - 33044
+    - 33044
+  label: 尼道乾大師傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-216
+    span:
+    - body
+    - 33150
+    - 33150
+  label: 李知遙居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-217
+    span:
+    - body
+    - 33235
+    - 33235
+  label: 王日休居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-218
+    span:
+    - body
+    - 33360
+    - 33360
+  label: 黃生居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-219
+    span:
+    - body
+    - 33428
+    - 33428
+  label: 周夢顏居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-220
+    span:
+    - body
+    - 33960
+    - 33960
+  label: 羅𠃔枚居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-221
+    span:
+    - body
+    - 34126
+    - 34126
+  label: 彭希涑居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-222
+    span:
+    - body
+    - 34362
+    - 34362
+  label: 姜見龍居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-223
+    span:
+    - body
+    - 34549
+    - 34549
+  label: 吳濂居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-224
+    span:
+    - body
+    - 34721
+    - 34721
+  label: 張師誠居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-225
+    span:
+    - body
+    - 34972
+    - 34972
+  label: 蔣十八居士與妻同傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-226
+    span:
+    - body
+    - 34981
+    - 34981
+  label: 蔣十八居士與妻同傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-227
+    span:
+    - body
+    - 35141
+    - 35141
+  label: 馮善女人傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0132_X_001-mulu-228
+    span:
+    - body
+    - 35296
+    - 35296
+  label: 崔善女人傳
+  type: mulu
+  level: 1
+hash: sha256:6ed1ed07e239637fb32f47648807ce88ba525611ac338d2c1b6ab02613ced77e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
