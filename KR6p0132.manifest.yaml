@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0132_000.yaml, hash: 'sha256:d7035038092758270d0e4b8495eca9ecd79f03164af572855ce3b842769798a1'}
-  - {seq: 1, filename: KR6p0132_001.yaml, hash: 'sha256:5222680044e0c98f7df657442a5effda66ee8b339091b177a3bb48b5cd1f8500'}
+  - {seq: 0, filename: KR6p0132_000.yaml, hash: 'sha256:e2ed4fb82ad58f88af7f946496d4c792f3422935a0e8ec2623d10b383be8165a'}
+  - {seq: 1, filename: KR6p0132_001.yaml, hash: 'sha256:dc5c2a5f2e9e3407fbdac59160645fd0acbcabfd83deb7e09f0bcbd0e7b21bb5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0132_000.markers.yaml, hash: 'sha256:5c54ffa32f318d8b303574b003ad9e1ce6c57461a28178bb8aca212432955c5f'}
-  - {seq: 1, role: markers, filename: assets/KR6p0132_001.markers.yaml, hash: 'sha256:1c723c20147270b2c0cf89d04172684c004a064b4b2d07083ef661b11a7af327'}
+  - {seq: 0, role: markers, filename: assets/KR6p0132_000.markers.yaml, hash: 'sha256:a0d8f406364d9b79939ce0124fddcf073838b3dc24b23fb59211d57680d9fd93'}
+  - {seq: 1, role: markers, filename: assets/KR6p0132_001.markers.yaml, hash: 'sha256:e89edfe11e1d5b27fce50f2d143a4cb38f9508dd02ec2ece94351febdb5694a2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2327,7 +2327,4 @@ table_of_contents:
   label: 崔善女人傳
   type: mulu
   level: 1
-hash: sha256:6ed1ed07e239637fb32f47648807ce88ba525611ac338d2c1b6ab02613ced77e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:58432e8d3c462480522d091f8f0ff8d398cf70627c7b103cc8dfa353ce6d474a

@@ -43,7 +43,6 @@ markers:
   - {type: xml-element, offset: 77, content: '', id: KR6p0132_X_000-bkkxmlele1, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 79, content: '', id: KR6p0132_X_000-bkkxmlele2, name: note, role: close, attrs: {place: inline}}
   - {type: punctuation, offset: 83, content: ，, id: KR6p0132_X_000-bkkpn24}
-  - {type: substitution, offset: 85, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
   - {type: line-break, offset: 86, content: '', id: KR6p0132_X_000-0842a09, ed: X, 'n': 0842a09}
   - {type: line-break, offset: 86, content: '', id: KR6p0132_X_000-0726a06, ed: R110, 'n': 0726a06}
   - {type: punctuation, offset: 90, content: ，, id: KR6p0132_X_000-bkkpn25}
@@ -52,7 +51,6 @@ markers:
   - {type: line-break, offset: 106, content: '', id: KR6p0132_X_000-0842a10, ed: X, 'n': 0842a10}
   - {type: line-break, offset: 106, content: '', id: KR6p0132_X_000-0726a07, ed: R110, 'n': 0726a07}
   - {type: punctuation, offset: 107, content: ，, id: KR6p0132_X_000-bkkpn27}
-  - {type: substitution, offset: 110, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 113, content: ，, id: KR6p0132_X_000-bkkpn28}
   - {type: punctuation, offset: 117, content: 。, id: KR6p0132_X_000-bkkpn29}
   - {type: punctuation, offset: 126, content: ，, id: KR6p0132_X_000-bkkpn30}
@@ -95,7 +93,6 @@ markers:
   - {type: punctuation, offset: 260, content: 。, id: KR6p0132_X_000-bkkpn51}
   - {type: line-break, offset: 262, content: '', id: KR6p0132_X_000-0842a19, ed: X, 'n': 0842a19}
   - {type: line-break, offset: 262, content: '', id: KR6p0132_X_000-0726a16, ed: R110, 'n': 0726a16}
-  - {type: substitution, offset: 267, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 270, content: ，, id: KR6p0132_X_000-bkkpn52}
   - {type: punctuation, offset: 273, content: ，, id: KR6p0132_X_000-bkkpn53}
   - {type: punctuation, offset: 280, content: ，, id: KR6p0132_X_000-bkkpn54}
@@ -109,11 +106,9 @@ markers:
   - {type: punctuation, offset: 308, content: ，, id: KR6p0132_X_000-bkkpn58}
   - {type: variant, offset: 310, length: 1, content: 已, 卍續: 巳}
   - {type: punctuation, offset: 315, content: ，, id: KR6p0132_X_000-bkkpn59}
-  - {type: substitution, offset: 316, original: 愿, replacement: 願, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1429}}
   - {type: punctuation, offset: 322, content: ，, id: KR6p0132_X_000-bkkpn60}
   - {type: line-break, offset: 322, content: '', id: KR6p0132_X_000-0842a22, ed: X, 'n': 0842a22}
   - {type: line-break, offset: 322, content: '', id: KR6p0132_X_000-0726b01, ed: R110, 'n': 0726b01}
-  - {type: substitution, offset: 323, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4465}}
   - {type: punctuation, offset: 329, content: 。, id: KR6p0132_X_000-bkkpn61}
   - {type: punctuation, offset: 332, content: 。, id: KR6p0132_X_000-bkkpn62}
   - {type: xml-element, offset: 332, content: '', id: pX62p0842a0501_end, name: p, role: close, attrs: {'xml:id': pX62p0842a0501}}
@@ -138,4 +133,4 @@ markers:
   - {type: line-break, offset: 352, content: '', id: KR6p0132_X_000-0726b04, ed: R110, 'n': 0726b04}
   body: []
   back: []
-hash: sha256:5c54ffa32f318d8b303574b003ad9e1ce6c57461a28178bb8aca212432955c5f
+hash: sha256:a0d8f406364d9b79939ce0124fddcf073838b3dc24b23fb59211d57680d9fd93
