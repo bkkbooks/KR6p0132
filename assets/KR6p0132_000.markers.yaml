@@ -28,6 +28,7 @@ markers:
   - {type: line-break, offset: 26, content: '', id: KR6p0132_X_000-0726a03, ed: R110, 'n': 0726a03}
   - {type: punctuation, offset: 28, content: ，, id: KR6p0132_X_000-bkkpn14}
   - {type: punctuation, offset: 35, content: ，, id: KR6p0132_X_000-bkkpn15}
+  - {type: substitution, offset: 38, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 39, content: ，, id: KR6p0132_X_000-bkkpn16}
   - {type: punctuation, offset: 45, content: ，, id: KR6p0132_X_000-bkkpn17}
   - {type: line-break, offset: 46, content: '', id: KR6p0132_X_000-0842a07, ed: X, 'n': 0842a07}
@@ -43,6 +44,7 @@ markers:
   - {type: xml-element, offset: 77, content: '', id: KR6p0132_X_000-bkkxmlele1, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 79, content: '', id: KR6p0132_X_000-bkkxmlele2, name: note, role: close, attrs: {place: inline}}
   - {type: punctuation, offset: 83, content: ，, id: KR6p0132_X_000-bkkpn24}
+  - {type: substitution, offset: 85, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20841}}
   - {type: line-break, offset: 86, content: '', id: KR6p0132_X_000-0842a09, ed: X, 'n': 0842a09}
   - {type: line-break, offset: 86, content: '', id: KR6p0132_X_000-0726a06, ed: R110, 'n': 0726a06}
   - {type: punctuation, offset: 90, content: ，, id: KR6p0132_X_000-bkkpn25}
@@ -51,6 +53,7 @@ markers:
   - {type: line-break, offset: 106, content: '', id: KR6p0132_X_000-0842a10, ed: X, 'n': 0842a10}
   - {type: line-break, offset: 106, content: '', id: KR6p0132_X_000-0726a07, ed: R110, 'n': 0726a07}
   - {type: punctuation, offset: 107, content: ，, id: KR6p0132_X_000-bkkpn27}
+  - {type: substitution, offset: 110, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 113, content: ，, id: KR6p0132_X_000-bkkpn28}
   - {type: punctuation, offset: 117, content: 。, id: KR6p0132_X_000-bkkpn29}
   - {type: punctuation, offset: 126, content: ，, id: KR6p0132_X_000-bkkpn30}
@@ -106,9 +109,11 @@ markers:
   - {type: punctuation, offset: 308, content: ，, id: KR6p0132_X_000-bkkpn58}
   - {type: variant, offset: 310, length: 1, content: 已, 卍續: 巳}
   - {type: punctuation, offset: 315, content: ，, id: KR6p0132_X_000-bkkpn59}
+  - {type: substitution, offset: 316, original: 愿, replacement: 願, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17675}}
   - {type: punctuation, offset: 322, content: ，, id: KR6p0132_X_000-bkkpn60}
   - {type: line-break, offset: 322, content: '', id: KR6p0132_X_000-0842a22, ed: X, 'n': 0842a22}
   - {type: line-break, offset: 322, content: '', id: KR6p0132_X_000-0726b01, ed: R110, 'n': 0726b01}
+  - {type: substitution, offset: 323, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 329, content: 。, id: KR6p0132_X_000-bkkpn61}
   - {type: punctuation, offset: 332, content: 。, id: KR6p0132_X_000-bkkpn62}
   - {type: xml-element, offset: 332, content: '', id: pX62p0842a0501_end, name: p, role: close, attrs: {'xml:id': pX62p0842a0501}}
@@ -133,4 +138,4 @@ markers:
   - {type: line-break, offset: 352, content: '', id: KR6p0132_X_000-0726b04, ed: R110, 'n': 0726b04}
   body: []
   back: []
-hash: sha256:a0d8f406364d9b79939ce0124fddcf073838b3dc24b23fb59211d57680d9fd93
+hash: sha256:48e97562879827df144a42747a10651f085c04c378f789ae64839c9664931150
