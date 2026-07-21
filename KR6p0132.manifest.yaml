@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0132_000.yaml, hash: 'sha256:5252e9a0f34d27c38c00d7c4dcd7aa63dfe1f95d86bed25646d45b760d39a01b'}
+  - {seq: 0, filename: KR6p0132_000.yaml, hash: 'sha256:2087134657a55b5cc88d33b9b2639ffebc6153a7bd2ca225389d131e6b7794f1'}
   - {seq: 1, filename: KR6p0132_001.yaml, hash: 'sha256:90724eed3574386b85697b47a32b5c71431bbe8b00948cb9d3f8e2f3a407e053'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0132_000.markers.yaml, hash: 'sha256:48e97562879827df144a42747a10651f085c04c378f789ae64839c9664931150'}
+  - {seq: 0, role: markers, filename: assets/KR6p0132_000.markers.yaml, hash: 'sha256:434a24352a78961b624d1c56ca2a7d7a2404a9759d69c3623589265f77f36932'}
   - {seq: 1, role: markers, filename: assets/KR6p0132_001.markers.yaml, hash: 'sha256:ddb82c4876cc5560de332f2a39efc06200b5d0827b1088cbb2679e9f5ad0b920'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0132_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1214-A 蓮修必讀自序
@@ -2327,7 +2327,7 @@ table_of_contents:
   label: 崔善女人傳
   type: mulu
   level: 1
-hash: sha256:97107bb036220b23032c322648d5e5c081f0a8199f7f318c46f8a244369932fd
+hash: sha256:0e5fb492452ec96017b70c5d9670abcc6bc2775449a101a3d273e863cae40305
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

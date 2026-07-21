@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0132_000-X.yaml, hash: 'sha256:e2ed4fb82ad58f88af7f946496d4c792f3422935a0e8ec2623d10b383be8165a'}
+  - {seq: 0, filename: KR6p0132_000-X.yaml, hash: 'sha256:ad8f645f8df6cca2fc91a2307f68f060b1e5eb546918f4cb192b6dce3adec248'}
   - {seq: 1, filename: KR6p0132_001-X.yaml, hash: 'sha256:dc5c2a5f2e9e3407fbdac59160645fd0acbcabfd83deb7e09f0bcbd0e7b21bb5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0132_000-X.markers.yaml, hash: 'sha256:472c44b024c74d0e3ec602d74ece8867e1305faaff4792ae8ddebb31bb2f0e83'}
+  - {seq: 0, role: markers, filename: assets/KR6p0132_000-X.markers.yaml, hash: 'sha256:6680cb48f6870b8220e112831c08522a6065270dc75d943b7c599efe40a98572'}
   - {seq: 1, role: markers, filename: assets/KR6p0132_001-X.markers.yaml, hash: 'sha256:93d69b6be39f273cb49567866dd41ea8a5b235f92979e42d98d369b35dc567ef'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0132_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1214-A 蓮修必讀自序
@@ -2325,4 +2325,4 @@ table_of_contents:
   label: 崔善女人傳
   type: mulu
   level: 1
-hash: sha256:8ff24f4c375a74c2a129977c0b5a8ea10e968f0701eacc4448bfb314bae3a000
+hash: sha256:0e9a97145bb63da7f594dddd8e720d9206c2a55d827c5828c0c22e536cc20a18
